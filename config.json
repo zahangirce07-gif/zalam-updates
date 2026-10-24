@@ -2,7 +2,7 @@
   "update": {
     "versionCode": 3,
     "versionName": "1.2",
-    "apkUrl": "https://github.com/<github-name>/zalam-updates/releases/download/v1.2/Z-Alam-Assistant-v1.2.apk",
+    "apkUrl": "https://github.com/zahangirce07-gif/zalam-updates/releases/download/v1.2/Z-Alam-Assistant-v1.2.apk",
     "notes": "More natural replies, one reply at a time, relationship-aware replies, bKash payment.",
     "force": false
   },
