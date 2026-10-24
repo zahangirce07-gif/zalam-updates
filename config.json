@@ -1,9 +1,9 @@
 {
   "update": {
-    "versionCode": 4,
-    "versionName": "1.3",
-    "apkUrl": "https://github.com/zahangirce07-gif/zalam-updates/releases/download/v1.3/Z-Alam-Assistant-v1.3.apk",
-    "notes": "Replies to missed phone calls, calls you cut, and missed WhatsApp calls. Faster, more natural reply timing.",
+    "versionCode": 5,
+    "versionName": "1.4",
+    "apkUrl": "https://github.com/zahangirce07-gif/zalam-updates/releases/download/v1.4/Z-Alam-Assistant-v1.4.apk",
+    "notes": "Replies to missed phone calls, calls you cut, and missed WhatsApp calls. Faster, more natural reply timing. Updates install on every phone.",
     "force": false
   },
   "notice": "",
