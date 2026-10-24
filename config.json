@@ -1,0 +1,25 @@
+{
+  "update": {
+    "versionCode": 3,
+    "versionName": "1.2",
+    "apkUrl": "https://github.com/<github-name>/zalam-updates/releases/download/v1.2/Z-Alam-Assistant-v1.2.apk",
+    "notes": "More natural replies, one reply at a time, relationship-aware replies, bKash payment.",
+    "force": false
+  },
+  "notice": "",
+  "promptExtra": "",
+  "styles": {},
+  "payment": {
+    "bkash": "01877200220",
+    "type": "Personal",
+    "method": "Send Money",
+    "whatsapp": "8801877200220",
+    "note": "",
+    "plans": [
+      { "days": 7, "price": 100 },
+      { "days": 30, "price": 300 },
+      { "days": 90, "price": 800 },
+      { "days": 365, "price": 2500 }
+    ]
+  }
+}
